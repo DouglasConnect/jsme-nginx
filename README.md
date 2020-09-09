@@ -1,0 +1,1 @@
+This repo can be used to build a simple nginx alpine container that hosts [Peter Ertl's JSME chemical structure editor](https://peter-ertl.com/jsme/). This dockerfile and container is licensed under BSD like the upstream JSME editor.
